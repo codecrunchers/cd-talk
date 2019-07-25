@@ -90,7 +90,7 @@ Note:
 
 ## My Asks of you as a team
 
-![](assets/img/ask.jpg)
+![](assets/img/teamask.png)
 
 Note: 
 - A
