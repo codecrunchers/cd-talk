@@ -16,9 +16,8 @@ Note:
 - reset, sane defaults and improve
 - set a KPI
 
-@snap[west span-50]
+
 ## Context/BG
-@snapend
 
 ![](assets/img/history.jpg)
 
