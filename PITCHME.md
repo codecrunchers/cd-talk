@@ -17,23 +17,8 @@ Note:
 - set a KPI
 
 @snap[west span-50]
-## Customize the Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
-@title[Add A Little Imagination]
-
-@snap[west span-50]
-
 ## Context/BG
+@snapend
 
 ![](assets/img/history.jpg)
 
