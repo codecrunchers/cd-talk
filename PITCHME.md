@@ -47,7 +47,7 @@ Note:
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/train.jpg)
 @snapend
 
 ---?image=assets/img/presenter.jpg
