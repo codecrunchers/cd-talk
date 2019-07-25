@@ -2,7 +2,9 @@
 
 ---
 
+@snap[west span-50]
 ## Reset
+@snapend
 
 @snap[east span-50]
 ![](assets/img/reset.png)
