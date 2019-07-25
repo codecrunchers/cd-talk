@@ -11,6 +11,7 @@ Note:
 - last retro outcomes all symptoms of process
 - reset, sane defaults and improve
 - set a KPI
+- all configurable - we will retro out the problems
 
 ---
 
