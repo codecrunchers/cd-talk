@@ -126,7 +126,7 @@ Note:
 - To a large extent self-manage and own deliverables, 
 - Build a low maintenance base platform -  we can expand with the business needs
 - Knowing the startup we joined is not a perfect place, Innovate and adapt, we will not be given clear requirements, resources will be stretched.
-- Continue to use retros to improve process, the cycle time graph *is* the target of the retro, nothing
+- Continue to use retros to improve process, the cycle time graph *is* the target of the retro. If you raise the same issue twice, retros are not working -.e. meetings
 - Raise blockers & and solutions :wink: to me early
 - Decide on what is happening with WhietBoard, duplicating is time consuming, no point if not maintained.
 - Find your want to deliver 'thing' for Process/Improvement and create a 'Betterworks Goal for it'
