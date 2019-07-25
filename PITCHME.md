@@ -2,10 +2,14 @@
 
 ---
 
-## Intro
-I want to address the last retro, when I dig into it's outcomes and some of previous ones I think a core underlying issue is our application of _process_ as a business and a team.  
+## Reset
 
-Mainly, I want to reset our Process to a sane default, talk about improvement and process ownership.  We will improve this base; antything detailed below, via a LEAN process.
+![](assets/img/reset.png)
+
+Note: 
+- last retro outcomes all symptoms of process
+- reset, sane defaults and improve
+- set a KPI
 
 ### BG 
 
