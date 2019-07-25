@@ -1,5 +1,7 @@
 Retro Chat
 
+---
+
 ## Intro
 I want to address the last retro, when I dig into it's outcomes and some of previous ones I think a core underlying issue is our application of _process_ as a business and a team.  
 
