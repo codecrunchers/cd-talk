@@ -4,7 +4,10 @@
 
 ## Reset
 
+@snap[east span-50]
 ![](assets/img/reset.png)
+@snapend
+
 
 @snap[south span-100 text-white]
 Sane Defaults to build on
