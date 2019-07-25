@@ -82,6 +82,7 @@ Note:
 Note: 
 - pressure won't go away,  but we can demonstrate our professionalism as a team by working on our process.
 - Software businesses allow a lot of time for process improvement, realising it is an long term investment, it is an ask of our roles. 
+- we get concrete metrics to highlight our problems and ak the business to recognise the deficit
 
 
 ---
