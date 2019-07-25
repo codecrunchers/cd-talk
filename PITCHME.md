@@ -32,24 +32,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @title[Add A Little Imagination]
 
 @snap[west span-50]
-## Reset
-@snapend
-
-@snap[east span-50]
-![](assets/img/reset.png)
-@snapend
-
-
-@snap[south span-100 text-white]
-Sane Defaults to build on
-@snapend
-
-Note: 
-- last retro outcomes all symptoms of process
-- reset, sane defaults and improve
-- set a KPI
-
----
 
 ## Context/BG
 
