@@ -21,15 +21,13 @@ First, very brief Bio, to give context of the direction I want us to move in as 
 ![](assets/img/history.jpg)
 
 Note:
-
-
 - I have been employed in IT for 23 years, in networking , lecturing, bailed on phd ,contract teacher, contracting roles, self employed disasters &wins, contractor, finance/
 trading houses ,  Engineering Delivery manger, architect, senior eng, principal - lot's of labels and software failures.
 
 ---
 
 ## CD
-
+The perception of CD
 ![](assets/img/train.jpg)
 
 Note: 
@@ -41,13 +39,12 @@ Note:
 
 ---
 
-## Failing at CD
-
+## Succeeding at CD
+Two way process, operating across multiple layers in the business
 ![](assets/img/crash.jpg)
 
 Note: 
 - I believe, unless the process reduces up from leaf nodes, and is strategically harnessed to enable a business's revenue channels - it probably does more damage overall than good - it provides a false sense of best practices. 
-
 - Underestimating the ask on Platform/Ops
 - Thinking CI is CD, CI s a capability within a CD Org.
 - Not understanding it is a journey.
@@ -55,7 +52,7 @@ Note:
 ---
 
 ## The Ask of Our Team
-
+Drive business success 
 ![](assets/img/ask.jpg)
 
 Note: 
@@ -68,7 +65,7 @@ Note:
 ---
 
 ## Process
-
+Harnessing Process
 ![](assets/img/train.jpg)
 
 Note: 
