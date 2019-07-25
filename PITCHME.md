@@ -10,3 +10,12 @@ Note:
 - last retro outcomes all symptoms of process
 - reset, sane defaults and improve
 - set a KPI
+
+---
+
+## Context/BG
+
+![](assets/img/reset.png)
+
+Note: 
+- A
