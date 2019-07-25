@@ -2,8 +2,6 @@
 
 ---
 
-
-
 ## Reset
 
 ![](assets/img/reset.png)
@@ -89,7 +87,7 @@ Note:
 ---
 
 ## Measuring
-How we track impact
+### How we track impact
 ![](assets/img/measure.jpg)
 
 Note: 
