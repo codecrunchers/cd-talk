@@ -32,6 +32,9 @@ At the team level,  I see CD as anagolous to the, Release IT,  bulkheading and b
 
 I believe, unless the process reduces up from leaf nodes, and is strategically harnessed to enable a business's revenue channels - it probably does more damage overall than good - it provides a false sense of best practices. 
 
+Underestimating the ask on Platform/Ops
+Thinking CI is CD, CI s a capability within a CD Org.
+Not understanding it is a journey.
 ### Ask
 
 Our ask,  abstractly,  is to drive business success by applying a process that enables continuous d* of business value.  Concretely, we need to build a very simple base that allows us to elegantly bolt on features as the business ask.
@@ -75,7 +78,8 @@ The Process and flexibility around it is a tool we have,to manage instability in
 - Knowing the startup we joined is not a perfect place, Innovate and adapt, we will not be given clear requirements, resources will be stretched.
 - Continue to use retros to improve process, the cycle time graph *is* the target of the retro, nothing
 - Raise blockers & and solutions :wink: to me early
-- Find your want to deliver 'thing' and create a 'Betterworks Goal for it'
+- Decide on what is happening with WhietBoard, duplicating is time consuming, no point if not maintained.
+- Find your want to deliver 'thing' for Process/Improvement and create a 'Betterworks Goal for it'
 
 
 
