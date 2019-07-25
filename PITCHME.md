@@ -6,6 +6,10 @@
 
 ![](assets/img/reset.png)
 
+@snap[south span-100 text-white]
+Sane Defaults to build on
+@snapend
+
 Note: 
 - last retro outcomes all symptoms of process
 - reset, sane defaults and improve
