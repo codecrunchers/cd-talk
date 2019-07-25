@@ -17,7 +17,7 @@ Note:
 ---
 
 ## Context/BG
-First, very brief Bio, to give context of the direction I want us to move in as a team.
+Bio
 ![](assets/img/history.jpg)
 
 Note:
@@ -39,8 +39,8 @@ Note:
 
 ---
 
-## Succeeding at CD
-Two way process, operating across multiple layers in the business
+## Failing/Succeeding at CD
+All in or nothing
 ![](assets/img/crash.jpg)
 
 Note: 
@@ -78,7 +78,7 @@ Note:
 ---
 
 ## Why
-
+What do we get
 ![](assets/img/why.jpg)
 
 Note: 
@@ -89,7 +89,7 @@ Note:
 ---
 
 ## Measuring
-
+How we track impact
 ![](assets/img/measure.jpg)
 
 Note: 
@@ -100,9 +100,7 @@ Note:
 ---
 
 ## Ownership
-
-The Process and flexibility around it is a tool we have,to manage instability in a software development environment
-
+What I expect from the Dev Team
 ![](assets/img/ownership.jpg)
 
 Note: 
