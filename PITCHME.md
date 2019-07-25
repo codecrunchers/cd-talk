@@ -16,11 +16,17 @@ Note:
 - reset, sane defaults and improve
 - set a KPI
 
+---
 
 ## Context/BG
-
+First, very brief Bio, to give context of the direction I want us to move in as a team.
 ![](assets/img/history.jpg)
 
+Note:
+
+
+- I have been employed in IT for 23 years, in networking , lecturing, bailed on phd ,contract teacher, contracting roles, self employed disasters &wins, contractor, finance/
+trading houses ,  Engineering Delivery manger, architect, senior eng, principal - lot's of labels and software failures.
 
 ---
 
