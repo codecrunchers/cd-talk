@@ -23,14 +23,11 @@ Note:
 @snapend
 
 @snap[south span-100 text-white]
-Why I think we need to lean on process
+My experience in process
 @snapend
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
-Note:
-- First, very brief Bio, to give context of the direction I want us to move in as a team.
-- I have been employed in IT for 23 years, in networking , lecturing, bailed on phd ,contract teacher, contracting roles, self employed disasters &wins, contractor, finance/trading houses ,  Engineering Delivery manger, architect, senior eng, principal - lot's of labels and software failures.
 
 
 @snap[north-west h4-white]
