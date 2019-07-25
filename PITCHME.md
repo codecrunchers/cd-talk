@@ -15,7 +15,7 @@ Note:
 ---
 
 ## Context/BG
-Bio
+#### Bio
 ![](assets/img/history.jpg)
 
 Note:
@@ -25,7 +25,7 @@ trading houses ,  Engineering Delivery manger, architect, senior eng, principal 
 ---
 
 ## CD
-The perception of CD
+####  The dangers of paying lip service only
 ![](assets/img/train.jpg)
 
 Note: 
@@ -63,7 +63,7 @@ Note:
 ---
 
 ## Process
-Harnessing Process
+#### Harnessing Process
 ![](assets/img/train.jpg)
 
 Note: 
@@ -76,7 +76,7 @@ Note:
 ---
 
 ## Why
-What do we get
+#### What do we get
 ![](assets/img/why.jpg)
 
 Note: 
@@ -87,7 +87,7 @@ Note:
 ---
 
 ## Measuring
-### How we track impact
+#### How we track impact
 ![](assets/img/measure.jpg)
 
 Note: 
@@ -98,7 +98,7 @@ Note:
 ---
 
 ## Ownership
-What I expect from the Dev Team
+##### What I expect from the Dev Team
 ![](assets/img/ownership.jpg)
 
 Note: 
