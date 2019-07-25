@@ -38,7 +38,7 @@ Note:
 ---
 
 ## Failing/Succeeding at CD
-All in or nothing
+####  All in or nothing
 ![](assets/img/crash.jpg)
 
 Note: 
@@ -50,7 +50,7 @@ Note:
 ---
 
 ## The Ask of Our Team
-Drive business success 
+####  Drive business success 
 ![](assets/img/ask.jpg)
 
 Note: 
