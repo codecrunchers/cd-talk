@@ -18,7 +18,9 @@ Note:
 ![](assets/img/history.jpg)
 
 Note: 
-- A
+- I have been employed in IT for 23 years, in networking , lecturing, bailed on phd ,contract teacher, contracting roles, self employed disasters &wins, contractor, finance/
+trading houses ,  Engineering Delivery manger, architect, senior eng, principal - lot's of labels and software failures.
+
 
 ---
 
