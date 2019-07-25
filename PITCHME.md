@@ -1,4 +1,4 @@
-Retro Chat
+# Being happier developers
 
 ---
 
